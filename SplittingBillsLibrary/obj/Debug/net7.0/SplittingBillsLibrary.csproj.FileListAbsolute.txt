@@ -1,0 +1,11 @@
+D:\Web assignment1\SplittingBillsLibrary\bin\Debug\net7.0\SplittingBillsLibrary.deps.json
+D:\Web assignment1\SplittingBillsLibrary\bin\Debug\net7.0\SplittingBillsLibrary.dll
+D:\Web assignment1\SplittingBillsLibrary\bin\Debug\net7.0\SplittingBillsLibrary.pdb
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.AssemblyInfoInputs.cache
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.AssemblyInfo.cs
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.csproj.CoreCompileInputs.cache
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.dll
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\refint\SplittingBillsLibrary.dll
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\SplittingBillsLibrary.pdb
+D:\Web assignment1\SplittingBillsLibrary\obj\Debug\net7.0\ref\SplittingBillsLibrary.dll
